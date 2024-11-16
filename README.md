@@ -1,9 +1,8 @@
-# hci_stat_exercise
+# HCI Stats
 
+This repository contains in-class exercise for the "Statistical Analysis in Practice" lecture from prof. April Wang.
 
-This repository contains in-class exercise for the "Statistical Analysis in Practice" lecture for from prof. April Wang.
-
-The purpose of this exercise is for students to practice on your own. There is no need to submit the analysis notebook. We will update the repository to include a reference solution afterwards.
+The purpose of this exercise is for students to practice on their own. There is no need to submit the analysis notebook. We have updated the repository to include a reference solution.
 
 - `starter.ipynb` is the notebook you will use for the exercise lecture
 - `dataset.csv` is a fake dataset based on the example VR controller study we discussed during the lecture
